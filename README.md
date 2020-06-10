@@ -1,14 +1,14 @@
 # WT-2-PROJECT
 
 languages:
-PHP
-SQL
-Javascript ES 6
-HTML5
+PHP,
+SQL,
+Javascript ES 6,
+HTML5,
 CSS3
 
 development environment:
-xampserver
+xampserver,
 windows 10
 
 database:
@@ -21,7 +21,7 @@ API :
 MySQLi
 
 Frameworks and Libraries:
-JQuery
+JQuery,
 BootStrap
 
 Techniques:
